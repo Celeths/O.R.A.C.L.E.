@@ -1,2 +1,0 @@
-docker build -t oracle .
-docker run -e DISCORD_ORACLE_TOKEN=[INSERT TOKEN] -d oracle
